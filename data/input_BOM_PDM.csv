@@ -1,0 +1,260 @@
+﻿File Name;Number;Description;Qty;State;Version;Revision;Revision By;Vendor;Item ID;Price;Delivery time;Type;PlateThickness;Spare part;Weight;Material;Manufaturing Method;Surface Treatment;Project;Project Name;Project number
+A-0001030545.SLDASM;A-0001030545;Rear wheel with brake;2;Design State;4;A;;Elesa;450901;;;Purchased;;No;0.2;;N/A;;62181-1;RBES Upgrade Germany;62181-1
+A-0001030614.SLDASM;A-0001030614;Gear motor;2;Design State;4;1;;MOTOVARIO;;;;Purchased;;No;2.8;Material <not specified>;;;62181-1;RBES Upgrade Germany;72841-1
+A-0001030651.SLDASM;A-0001030651;Front wheel without break;2;Design State;5;B;Krzysztof Kubacki;Elesa+ganter;450851;;;Purchased;;No;0.1;;N/A;;62181-1;RBES Upgrade Germany;72481-1
+Circlip DIN 471 - 26 x 1.2.sldprt;Circlip DIN 471 - 26 x 1.2;;3;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+Circlip DIN 471 - 28 x 1.5.sldprt;;;1;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+Circlip DIN 471 - 29 x 1.5.sldprt;Circlip DIN 471 - 29 x 1.5;;3;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+Circlip DIN 471 - 30 x 1.5.sldprt;;;1;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+Circlip DIN 471 - 35 x 1.5.sldprt;;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+Circlip DIN 471 - 6 x 0.7.sldprt;Circlip DIN 471 - 6 x 0.7;;1;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+Circlip DIN 472 - 42 x 1.75.sldprt;Circlip DIN 472 - 42 x 1.75;;1;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+Circlip DIN 472 - 45 x 1.75.sldprt;Circlip DIN 472 - 45 x 1.75;;1;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+DIN 7991 - M4 x 12 --- 12N.sldprt;DIN 7991 - M4 x 12 --- 12N;;16;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+DIN 7991 - M4 x 12 --- 7.6N.sldprt;;;5;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+DIN 7991 - M4 x 25 --- 20.6N.sldprt;DIN 7991 - M4 x 25 --- 20.6N;;2;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+DIN 912 M4 x 20 --- 20N.sldprt;DIN 912 M4 x 20 --- 20N;;1;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+DIN 912 M4 x 25 --- 25N.sldprt;DIN 912 M4 x 25 --- 25N;DIN 912 M4 x 25 --- 25N;1;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+DIN 912 M6 x 16 --- 16N.sldprt;DIN 912 M6 x 16 --- 16N;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+DIN 914 - M3 x 4-N.sldprt;;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+DIN 914 - M5 x 6-N.sldprt;DIN 914 - M5 x 6-N;;2;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+DIN 916 - M4 x 5-N.sldprt;P-0000019563;;4;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+DIN 916 - M5 x 8-N.sldprt;DIN 916 - M5 x 8-N;;36;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+DIN EN 24017 - M4 x 12-N.sldprt;DIN EN 24017 - M4 x 12-N;;5;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+DIN EN ISO 7040 - M4 - N.sldprt;;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+EN ISO 10642 - M4 x 25 - 20N.sldprt;EN ISO 10642 - M4 x 25 - 20N;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+EN ISO 4762 M10 x 35 - 32N.sldprt;EN ISO 4762 M10 x 35 - 32N;;2;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+EN ISO 4762 M3 x 16 - 16N.sldprt;;;14;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+EN ISO 4762 M4 x 12 - 12N.sldprt;;;13;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+EN ISO 4762 M4 x 16 - 16N.sldprt;EN ISO 4762 M4 x 16 - 16N;;2;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+EN ISO 4762 M4 x 25 - 20N.sldprt;;;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+EN ISO 4762 M6 x 16 - 16N.sldprt;EN ISO 4762 M6 x 16 - 16N;;3;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+EN ISO 4762 M6 x 60 - 24N.sldprt;EN ISO 4762 M6 x 60 - 24N;;4;Toolbox & Libraries;;;;;;;;Standard;;No;;;;;;;System
+Hexagon Nut ISO 4032 - M3 - W - N.sldprt;;;8;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+Hexagon Nut ISO 4032 - M4 - D - N.sldprt;;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+Hexagon Nut ISO 4032 - M4 - W - N.sldprt;;;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+Hexagon Nut ISO 4032 - M8 - D - N.sldprt;;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+Hexagon Nut ISO 4032 - M8 - W - N.sldprt;;;6;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+Hexagon Nut ISO 4034 - M8 - N.sldprt;;;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+Hexagon Thin Nut ISO 4035 - M6 - N.sldprt;;;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+ISO - 4032 - M10 - W - N.sldprt;ISO - 4032 - M10 - W - N;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO - 4032 - M12 - D - N.sldprt;ISO - 4032 - M12 - D - N;;17;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO - 4032 - M12 - W - N.sldprt;ISO - 4032 - M12 - W - N;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO - 4032 - M3 - W - N.sldprt;;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+ISO - 4032 - M4 - D - N.sldprt;ISO - 4032 - M4 - D - N;Hex nut;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO - 4032 - M6 - D - N.sldprt;ISO - 4032 - M6 - D - N;;8;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO - 4032 - M8 - W - N.sldprt;ISO - 4032 - M8 - W - N;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO - 4034 - M12 - N.sldprt;;;1;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+ISO - 4034 - M5 - N.sldprt;;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+ISO - 4035 - M8 - N.sldprt;ISO - 4035 - M8 - N;;12;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 10511-M6-N.sldprt;ISO 10511-M6-N;Hex nut- prevailing torque;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 10642 - M4 x 10 - 10N.sldprt;ISO 10642 - M4 x 10 - 10N;Countersunk head screw;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 10642 - M5 x 12 - 12N.sldprt;;ISO 10642 - M5 x 12 - 12N;62;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+ISO 10642 - M6 x 8 - 8N.sldprt;ISO 10642 - M6 x 8 - 8N;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4017 - M12 x 70-N.sldprt;ISO 4017 - M12 x 70-N;Hex head screw;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4017 - M12 x 80-N.sldprt;ISO 4017 - M12 x 80-N;Hex head screw;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4017 - M6 x 12-S.sldprt;;Hex screw;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+ISO 4017 - M8 x 45-S.sldprt;;Hex screw;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+ISO 4762 M10 x 25 - 25N.sldprt;ISO 4762 M10 x 25 - 25N;;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M12 x 35 - 35N.sldprt;;;16;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+ISO 4762 M3 x 25 - 18N.sldprt;;Hex socket screw;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;
+ISO 4762 M4 x 12 - 12N.sldprt;ISO 4762 M4 x 12 - 12N;;4;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M4 x 16 - 16N.sldprt;ISO 4762 M4 x 16 - 16N;;8;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M4 x 20 - 20N.sldprt;ISO 4762 M4 x 20 - 20N;ISO 4762 M4 x 20 - 20N;16;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M4 x 25 - 25N.sldprt;ISO 4762 M4 x 25 - 25N;Hexagon socket head cap screw ISO 4762 - M4 x 25;16;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M5 x 12 - 12N.sldprt;ISO 4762 M5 x 12 - 12N;;8;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M5 x 16 - 16N.sldprt;ISO 4762 M5 x 16 - 16N;;6;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M5 x 8 - 8N.sldprt;;;8;;;;;;;;;Standard;;;;;;;System;;
+ISO 4762 M6 x 12 - 12N.sldprt;ISO 4762 M6 x 12 - 12N;;33;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M6 x 16 - 16N.sldprt;ISO 4762 M6 x 16 - 16N;;18;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M6 x 20 - 20N.sldprt;ISO 4762 M6 x 20 - 20N;;15;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M6 x 25 - 25N.sldprt;ISO 4762 M6 x 25 - 25N;;8;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M8 x 16 - 16N.sldprt;ISO 4762 M8 x 16 - 16N;;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M8 x 20 - 20N.sldprt;ISO 4762 M8 x 20 - 20N;;36;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 4762 M8 x 25 - 25N.sldprt;ISO 4762 M8 x 25 - 25N;Socket head screw;2;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 7380 - M3 x 12 - 12N.sldprt;ISO 7380 - M3 x 12 - 12N;;3;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+ISO 7380 - M8 x 20 - 20N.sldprt;ISO 7380 - M8 x 20 - 20N;;8;Toolbox & Libraries;;;;;;;;Standard;;;;;;;System;;System
+P-0001030507.SLDPRT;P-0001030507;Door welding;1;Design State;14;B;Krzysztof Kubacki;;;;;Custom Part / Assembly;;No;25.10;1.0037 (S235JR);Welded;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030509.SLDPRT;P-0001030509;Side height adjustment bracket;1;Design State;5;A;;;;;;Custom Part / Assembly;;No;2.4;1.0045 (S355JR);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030511.SLDPRT;P-0001030511;Middle PC support beam;2;Design State;5;B;tomasz topor-futer;;;;;Custom Part / Assembly;;No;0.74;1.0037 (S235JR);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030513.SLDPRT;P-0001030513;Main frame;1;Design State;32;B;Krzysztof Kubacki;;;;;Custom Part / Assembly;;No;146.1;1.0037 (S235JR);Welded;;62181-162181-1;RBES Upgrade Germany;62181-1
+P-0001030515.SLDPRT;P-0001030515;PC corner support plate;28;Design State;7;A;;;;;;Custom Part / Assembly;;No;0.02;1.0037 (S235JR);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030517.SLDPRT;P-0001030517;Side plate;2;Design State;8;A;;;;;;Custom Part / Assembly;;No;13.9;1.0037 (S235JR);Laser Cut;;62181-162181-1;RBES Upgrade Germany;72481-1
+P-0001030519.SLDPRT;P-0001030519;Width adjuster screw bracket;1;Design State;10;1;;;;;;Custom Part / Assembly;;No;2.5;1.0037 (S235JR);Laser Cut;;62181-1;RBES Upgrade Germany;72841-1
+P-0001030520.SLDPRT;P-0001030520;Wheel block;4;Design State;4;A;;;;;;Custom Part / Assembly;;No;0.29;1.0037 (S235JR);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030522.SLDPRT;P-0001030522;Bearing bracket adjustment;4;Design State;2;A;;;;;;Custom Part / Assembly;;No;0.2;1.0045 (S355JR);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030524.SLDPRT;P-0001030524;Emergency box support plate;1;Design State;6;A;;;;;;Custom Part / Assembly;;No;0.6 kg;1.0037 (S235JR);Laser Cut;;;RBES Upgrade Germany;72481-1
+P-0001030525.SLDPRT;P-0001030525;Height adjustment plate;1;Design State;4;A;;;;;;Custom Part / Assembly;;No;2.3;1.0045 (S355JR);Laser Cut;;;RBES Upgrade Germany;72481-1
+P-0001030526.SLDPRT;P-0001030526;bracket PC support;26;Design State;6;A;;;;;;Custom Part / Assembly;;No;0.0 kg;1.0037 (S235JR);Laser Cut;;;RBES Upgrade Germany;72481-1
+P-0001030527.SLDPRT;P-0001030527;Bracket PC support;2;Design State;4;A;;;;;;Custom Part / Assembly;;No;0.0 kg;1.0037 (S235JR);Laser Cut;;;RBES Upgrade Germany;72481-1
+P-0001030528.SLDPRT;P-0001030528;Rib;2;Design State;3;A;;;;;;Custom Part / Assembly;;No;0.1 kg;1.0045 (S355JR);Laser Cut;;;RBES Upgrade Germany;72481-1
+P-0001030529.SLDPRT;P-0001030529;Cut bearing adjustment bracket;4;Design State;7;A;;;;;;Custom Part / Assembly;;No;106.48;1.0045 (S355JR);Laser Cut;;;RBES Upgrade Germany;72481-1
+P-0001030530.SLDPRT;P-0001030530;Support sensor plate;1;Design State;4;A;;;;;;Custom Part / Assembly;;No;0.2 kg;1.0037 (S235JR);Laser Cut;;;RBES Upgrade Germany;72481-1
+P-0001030540.SLDPRT;P-0001030540;Height adjutment angle;6;Design State;3;A;;;;;;Custom Part / Assembly;;No;140.86;1.0045 (S355JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;62181-1
+P-0001030541.SLDPRT;P-0001030541;Side cover;2;Design State;8;A;;;;;;Custom Part / Assembly;;No;14.71;PC High Viscosity;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030543.SLDPRT;P-0001030543;Top roller suport;1;Design State;2;1;;;;;;Custom Part / Assembly;;No;1.1;1.0045 (S355JR);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030549.SLDPRT;P-0001030549;Bumper plate;1;Design State;6;B;Krzysztof Kubacki;;;;;Custom Part / Assembly;;No;0.05;1.0037 (S235JR);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030552.SLDPRT;P-0001030552;Chain slide CRS 06B - 1;4;Design State;2;A;;EBMiA;CRS 06B-1;;;Purchased;;No;0.02;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030553.SLDPRT;P-0001030553;Tension arm;4;Design State;1;A;;EBMiA;RE10-ZN;;;Purchased;;No;0.04;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030554.SLDPRT;P-0001030554;Chain bracket;4;Design State;4;A;;;;;;Custom Part / Assembly;;No;0.20;1.0037 (S235JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030557.SLDPRT;P-0001030557;Roll;1;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.8;POM Acetal Copolymer;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030558.SLDPRT;P-0001030558;Handel clamp;2;Design State;2;1;;Elesa;GN 911 M10x63;;;Purchased;;No;0.0;Material <not specified>;;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030559.SLDPRT;P-0001030559;Vertical profile;1;Design State;6;1;;;;;;Custom Part / Assembly;;No;5.3;1.0037 (S235JR);Welded;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030563.SLDPRT;P-0001030563;Top roller adjusting plate;1;Design State;4;1;;;;;;Custom Part / Assembly;;No;0.2;1.0045 (S355JR);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030565.SLDPRT;P-0001030565;Top brush bracket;1;Design State;9;1;;;;;;Custom Part / Assembly;;No;1.0;1.0037 (S235JR);Welded;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030568.SLDPRT;P-0001030568;Flanged connector clamp;1;Design State;3;1;;ELESA;GN 147-V40-2-SW;;;Purchased;;No;0.4;Material <not specified>;;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030569.SLDPRT;P-0001030569;Top roller adjusting plate;1;Design State;7;A;;;;;;Custom Part / Assembly;;No;0.4;1.0045 (S355JR);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030571.SLDPRT;P-0001030571;Roll axis;2;Design State;4;1;;;;;;Custom Part / Assembly;;No;0.1;1.0045 (S355JR);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030573.SLDPRT;P-0001030573;Plate 65x65;1;Design State;5;A;;;;;;Custom Part / Assembly;;No;0.1;1.0045 (S355JR);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030575.SLDPRT;P-0001030575;Lobe knob;3;Design State;2;1;;Elesa+ganter;69919-C5;;;Purchased;;No;0.0;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030576.SLDPRT;P-0001030576;"Top roller brush FBL1310 L380; L hair: 20";2;Design State;7;B;Krzysztof Kubacki;Szczotki przemys?owe;FBL1310;;;Purchased;;No;0.1;Material <not specified>;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030577.SLDPRT;P-0001030577;Roll sleeve;2;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.0;POM Acetal Copolymer;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030578.SLDPRT;P-0001030578;Roll spacer;2;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.0;POM Acetal Copolymer;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030579.SLDPRT;P-0001030579;Top roller holder;1;Design State;4;1;;;;;;Custom Part / Assembly;;No;3.2;1.0037 (S235JR);Welded;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030581.SLDPRT;P-0001030581;DIN 6334 M8 long nut;3;Design State;3;A;;;;;;Purchased;;No;0.0 kg;Material <not specified>;;;;RBES Upgrade Germany;72481-1
+P-0001030582.SLDPRT;P-0001030582;Distance bushing;2;Design State;4;A;;;;;;Custom Part / Assembly;;No;0.0 kg;3.0205 (EN-AW 1200);Machined (Turned/Milled);;;RBES Upgrade Germany;72481-1
+P-0001030583.SLDPRT;P-0001030583;Floor assembly plate;2;Design State;4;A;;;;;;Custom Part / Assembly;;No;503.25;1.0045 (S355JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;62181-1
+P-0001030585.SLDPRT;P-0001030585;Harting housing;2;Design State;4;1;;Harting;CY3B20-500;;;Purchased;;No;0.2;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030586.SLDPRT;P-0001030586;Lower support angle;2;Design State;3;A;;;;;;Custom Part / Assembly;;No;0.3;1.0045 (S355JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030588.SLDPRT;P-0001030588;Optical sensor;1;Design State;1;1;;ALLEN-BRADLEY;A-B.42JS-B2MPB2-F4;;;Purchased;;No;0.0;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030589.SLDPRT;P-0001030589;Profile 45x45;3;Design State;2;1;;Bosch Rexroth;3842990520;;;Custom Part / Assembly;;No;3696.7;6063-O;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030591.SLDPRT;P-0001030591;Spacer sleeve;4;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.02;1.0045 (S355JR);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030592.SLDPRT;P-0001030592;Gear motor plate;2;Design State;8;1;;;;;;Custom Part / Assembly;;No;1.0;1.0045 (S355JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030594.SLDPRT;P-0001030594;Spacer sleeve #2;4;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.01;1.0045 (S355JR);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030595.SLDPRT;P-0001030595;Driving chain 06B-1 L660;2;Design State;1;A;;EBMiA;06B-1(3/8).S;;;Purchased;;No;0.1;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030596.SLDPRT;P-0001030596;Chain guide;4;Design State;2;A;;DAGAR;D00037;;;Purchased;;No;183.186;Material <not specified>;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030597.SLDPRT;P-0001030597;Gear KL06B-1-z25-NR;4;Design State;2;A;;EBMiA;KL06B-1-z25-NR;;;Purchased;;No;0.27;1.0045 (S355JR);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030598.SLDPRT;P-0001030598;Shaft distance sleeve;12;Design State;3;1;;;;;;Custom Part / Assembly;;No;0.0;1.4301 (X5CrNi18-10);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030600.SLDPRT;P-0001030600;Chain 06B-1 L1560;4;Design State;1;1;;EBMiA;06B-1(3/8).S;;;Purchased;;No;0.2;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030601.SLDPRT;P-0001030601;Wa?ek;2;Design State;3;A;;;;;;Custom Part / Assembly;;No;0.27;1.7035 (41Cr4);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030602.SLDPRT;P-0001030602;Drive shaft #1;1;Design State;5;A;;;;;;Custom Part / Assembly;;No;5.61;1.7035 (41Cr4);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030603.SLDPRT;P-0001030603;Gear KL06B-1-Z25/D30;2;Design State;2;A;;EBMiA;KL06B-1-Z25/D30;;;Custom Part / Assembly;;No;57.38;Material <not specified>;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030604.SLDPRT;P-0001030604;Right mounting plate;4;Design State;4;1;;;;;;Custom Part / Assembly;;No;0.52;1.0045 (S355JR);Laser Cut;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030606.SLDPRT;P-0001030606;Middle floor plate;1;Design State;21;1;;;;;;Custom Part / Assembly;;No;21.4;1.0037 (S235JR);Laser Cut;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030608.SLDPRT;P-0001030608;Front floor plate;1;Design State;12;1;;;;;;Custom Part / Assembly;;No;5.1;1.0037 (S235JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030610.SLDPRT;P-0001030610;Chain wheels shaft;1;Design State;5;1;;;;;;Custom Part / Assembly;;No;5.7;1.7035 (41Cr4);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030611.SLDPRT;P-0001030611;Gear KL06B-1-Z25/D28;5;Design State;2;A;;EBMiA;KL06B-1-Z25-D28;;;Purchased;;No;61.85;Material <not specified>;;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030612.SLDPRT;P-0001030612;Bearing UCFL205/25;4;Design State;2;A;;Poltech S.C;UCFL205;;;Purchased;;No;88.12;Material <not specified>;;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030613.SLDPRT;P-0001030613;Drive shaft#2;1;Design State;6;A;;;;;;Custom Part / Assembly;;No;5.6;1.7035 (41Cr4);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030625.SLDPRT;P-0001030625;Shaft bracket;2;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.3;1.0045 (S355JR);Machined (Turned/Milled);Paint RAL 9003;62181-1;RBES Upgrade Germany;62181-1
+P-0001030626.SLDPRT;P-0001030626;Needle bearing 28x42x20;4;Design State;1;A;;EBMiA;L0107-001-0352;;;Purchased;;No;13.4;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030627.SLDPRT;P-0001030627;Gear KL06B-1-z25-NR;4;Design State;2;A;;EBMiA;KL06B-1-z25-NR;;;Purchased;;No;39.98;Material <not specified>;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030628.SLDPRT;P-0001030628;Spacer sleeve #4;4;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.01;1.0045 (S355JR);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030629.SLDPRT;P-0001030629;Gear KL06B-1-Z25/D28;1;Design State;2;A;;EBMiA;KL06B-1-Z25/D28;;;Purchased;;No;59.86;Material <not specified>;;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030630.SLDPRT;P-0001030630;Chain 06B-1 L1000;4;Design State;1;1;;EBMiA;06B-1 L1000;;;Purchased;;No;0.1;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030631.SLDPRT;P-0001030631;Bearing housing;1;Design State;2;1;;;;;;Custom Part / Assembly;;No;2.0;1.0045 (S355JR);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030632.SLDPRT;P-0001030632;Bearing housing;1;Design State;2;1;;;;;;Custom Part / Assembly;;No;1.1;1.0045 (S355JR);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030633.SLDPRT;P-0001030633;Bearing nut;2;Design State;4;1;;;;;;Custom Part / Assembly;;No;0.1;1.0045 (S355JR);Machined (Turned/Milled);Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030634.SLDPRT;P-0001030634;Shaft support;1;Design State;3;1;;;;;;Custom Part / Assembly;;No;2.2;1.0045 (S355JR);Machined (Turned/Milled);Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030635.SLDPRT;P-0001030635;Gear KL06B-1-Z15/D20;2;Design State;4;A;;EBMiA;KL06B-1-Z15/D20;;;Custom Part / Assembly;;No;17.03;Material <not specified>;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030636.SLDPRT;P-0001030636;Chain guide bar;4;Design State;5;1;;;;;;Custom Part / Assembly;;No;0.2;1.0045 (S355JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030638.SLDPRT;P-0001030638;Chain guide bar;4;Design State;7;1;;;;;;Custom Part / Assembly;;No;0.7;1.0045 (S355JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030640.SLDPRT;P-0001030640;Chain guide;4;Design State;2;A;;DAGAR;D00037;;;Purchased;;No;44.917;Material <not specified>;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030641.SLDPRT;P-0001030641;Sunk key N-6885-1-6X6X10;4;Design State;2;1;;EBMiA;N-6885-1-6X6X10;;;Purchased;;No;;Stainless Steel (ferritic);N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030642.SLDPRT;P-0001030642;Lock washer;2;Design State;3;1;;;;;;Custom Part / Assembly;;No;0.0;1.4301 (X5CrNi18-10);Laser Cut;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030643.SLDPRT;P-0001030643;Sunk key N-6885-1-8X7X14;10;Design State;2;1;;EBMiA;N-6885-1-8X7X14;;;Purchased;;No;;Stainless Steel (ferritic);N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030644.SLDPRT;P-0001030644;Gear KL06B-1-Z25/D30;2;Design State;2;A;;EBMiA;KL06B-1-Z25/D30;;;Purchased;;No;59.33;Material <not specified>;;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030645.SLDPRT;P-0001030645;Needle bearing 30x45x20;4;Design State;1;A;;EBMiA;L0107-001-0306;;;Purchased;;No;15.5;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030646.SLDPRT;P-0001030646;Ball bearing 2Z 35x55x10;2;Design State;1;A;;EBMiA;L0101-001-1098;;;Purchased;;No;9.1;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030647.SLDPRT;P-0001030647;Mounting plate;2;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.1;1.0045 (S355JR);Laser Cut;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030648.SLDPRT;P-0001030648;Spacer sleeve #3;4;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.02;1.0037 (S235JR);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030649.SLDPRT;P-0001030649;Gear cover;4;Design State;4;1;;;;;;Custom Part / Assembly;;No;0.1;1.4301 (X5CrNi18-10);Laser Cut;;;Robot Box Erecting System;62181-1
+P-0001030650.SLDPRT;P-0001030650;T-NUT 10 M6;6;Design State;4;1;;Bosch rexroth;3842536604;;;Purchased;;No;0.0;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030655.SLDPRT;P-0001030655;Harting plate;2;Design State;4;1;;;;;;Custom Part / Assembly;;No;0.4;1.0037 (S235JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;62181-1
+P-0001030658.SLDPRT;P-0001030658;Profile 45x45;1;Design State;8;1;;Bosch Rexroth;3842990520;;;Custom Part / Assembly;;No;2108.1;6063-O;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030659.sldprt;P-0001030659;45 X 45 Gusset With Fasteners;8;Design State;4;A;;BOSCH REXROTH;;;;Purchased;;No;48.72;Material <not specified>;N/A;;72205-2;RBES Upgrade Germany;72481-1
+P-0001030660.SLDPRT;P-0001030660;Threaded pivot pin;2;Design State;3;1;;;;;;Custom Part / Assembly;;No;0.1;1.0037 (S235JR);Welded;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030661.SLDPRT;P-0001030661;Regulation beam;2;Design State;4;1;;;;;;Custom Part / Assembly;;No;1.0;1.0037 (S235JR);Machined (Turned/Milled);Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030662.SLDPRT;P-0001030662;Flanged sleeve;24;Design State;4;1;;igus;GFM-1214-15;;;Purchased;;No;;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030663.SLDPRT;P-0001030663;Linear bearing;4;Design State;4;A;;Hiwin;EGH15SA-Z0-H;;;Purchased;;Yes;19.1;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030664.SLDPRT;P-0001030664;Linear bearing mounting;1;Design State;5;1;;;;;;Custom Part / Assembly;;No;0.0;3.4365 (AlZn5,5MgCu);Machined (Turned/Milled);Anodizing type 2;62181-1;RBES Upgrade Germany;72481-1
+P-0001030666.SLDPRT;P-0001030666;Pin;2;Design State;3;1;;;;;;Custom Part / Assembly;;No;0.1;1.4301 (X5CrNi18-10);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030667.SLDPRT;P-0001030667;Stainless steel pin;2;Design State;4;1;;EBMiA;EG-GN2342-0031;;;Purchased;;No;0.0;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030668.SLDPRT;P-0001030668;Profile 45x45;1;Design State;3;1;;Bosch;3842990520;;;Purchased;;No;1398.7;6063-O;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030669.SLDPRT;P-0001030669;Linear guide;4;Design State;7;A;;Hiwin;EGR15-R450-H (15/7x60/15);;;Purchased;;Yes;56.0;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030670.SLDPRT;P-0001030670;Bosch profile 45x45 (3842992404);2;Design State;6;1;;Bosh Rexroth;493-8319;;;Purchased;;No;0.4;Material <not specified>;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030671.SLDPRT;P-0001030671;Profile 45x45;1;Design State;5;1;;Bosch Rexroth;3842990520;;;Purchased;;No;2307.9;6063-O;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030672.SLDPRT;P-0001030672;Profile 45x45;2;Design State;5;1;;Bosch Rexroth;3842990520;;;Purchased;;No;0.1;6063-O;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030673.SLDPRT;P-0001030673;Regulation frame;1;Design State;6;A;;;;;;Custom Part / Assembly;;No;3.3;1.0037 (S235JR);Welded;Paint RAL 9003;62181-1;RBES Upgrade Germany;72841-1
+P-0001030674.SLDPRT;P-0001030674;Pivot pin;2;Design State;3;1;;;;;;Custom Part / Assembly;;No;0.1;1.0037 (S235JR);Welded;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030675.SLDPRT;P-0001030675;Hinge;2;Design State;5;A;;;;;;Custom Part / Assembly;;No;0.2;3.1325 (EN-AW 2017A);Machined (Turned/Milled);Anodizing type 2;62181-1;RBES Upgrade Germany;72481-1
+P-0001030676.SLDPRT;P-0001030676;Sliding beam;1;Design State;3;1;;;;;;Custom Part / Assembly;;No;0.4;1.0037 (S235JR);Welded;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030677.SLDPRT;P-0001030677;Cover cap 45x45;6;Design State;4;1;;Bosch rexroth;3842548752;;;Purchased;;No;0.0;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030678.SLDPRT;P-0001030678;Width adjusting block;1;Design State;4;1;;;;;;Custom Part / Assembly;;No;0.0;3.1325;Machined (Turned/Milled);Anodizing type 2;62181-1;RBES Upgrade Germany;72481-1
+P-0001030679.SLDPRT;P-0001030679;Trapezoidal nut 16x4;1;Design State;3;A;;EBMiA;NTRBZK16X4P;;;Purchased;;No;0.21;Leaded Commercial Bronze;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030680.SLDPRT;P-0001030680;Brush sealing h5 15mm L100mm;1;Design State;4;A;;Szczotki przemyslowe;;;;Purchased;;No;0.0 kg;Material <not specified>;Machined (Turned/Milled);;;RBES Upgrade Germany;72481-1
+P-0001030681.SLDPRT;P-0001030681;Brush support bracket;1;Design State;6;A;;;;;;Custom Part / Assembly;;No;0.3 kg;1.0037 (S235JR);Laser Cut;Paint RAL 9003;;RBES Upgrade Germany;72481-1
+P-0001030682.SLDPRT;P-0001030682;Threaded plate;2;Design State;4;A;;;;;;Custom Part / Assembly;;No;0.3 kg;1.4301 (X5CrNi18-10);Machined (Turned/Milled);;;RBES Upgrade Germany;72481-1
+P-0001030683.SLDPRT;P-0001030683;Distance bushing;2;Design State;2;A;;;;;;Custom Part / Assembly;;No;0.0 kg;1.4301 (X5CrNi18-10);Machined (Turned/Milled);;;RBES Upgrade Germany;72481-1
+P-0001030684.SLDPRT;P-0001030684;Cardboard positioning bracket;1;Design State;2;A;;;;;;Custom Part / Assembly;;No;2.4 kg;1.4301 (X5CrNi18-10);Laser Cut;;;RBES Upgrade Germany;72481-1
+P-0001030685.SLDPRT;P-0001030685;T NUT N10 M4;5;Design State;2;A;;Bosch Rexroth;3842530281;;;Purchased;;No;;;N/A;;;RBES Upgrade Germany;72481-1
+P-0001030686.SLDPRT;P-0001030686;Door cover;1;Design State;11;A;;;;;;Custom Part / Assembly;;No;13.10;PC High Viscosity;Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030689.SLDPRT;P-0001030689;Adjusting knob bracket;1;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.1;1.0045 (S355JR);Machined (Turned/Milled);Paint RAL 9003;62181-1;RBES Upgrade Germany;62181-1
+P-0001030690.SLDPRT;P-0001030690;Knob shaft;1;Design State;2;A;;;;;;Custom Part / Assembly;;No;31.88;1.7035 (41Cr4);Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030691.SLDPRT;P-0001030691;Metal Miter Gear;2;Design State;2;A;;McMaster-Carr Supply Company;3560N13;;;Custom Part / Assembly;;Yes;;303 Stainless Steel;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030693.SLDPRT;P-0001030693;Ball bearing ZZ 8x16x4;1;Design State;1;A;;EBMiA;L0101-001-5026;;;Purchased;;No;;;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030697.SLDPRT;P-0001030697;Ball bearing 10x19x5;1;Design State;1;A;;EBMiA;L0101-001-5068;;;Purchased;;No;;;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030700.SLDPRT;P-0001030700;Trapezoidal nut;1;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.0;Material <not specified>;Machined (Turned/Milled);Paint RAL 9003;62181-1;RBES Upgrade Germany;62181-1
+P-0001030701.SLDPRT;P-0001030701;Handwheel with crank;1;Design State;4;1;Krzysztof Kubacki;Elesa Ganter;78531-r-k;;;Purchased;;No;0.1;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030702.SLDPRT;P-0001030702;Threaded rod;1;Design State;5;1;;;;;;Custom Part / Assembly;;No;0.1;Material <not specified>;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;62181-1
+P-0001030703.SLDPRT;P-0001030703;Bearing sleeve;1;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.0;1.0045 (S355JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;62181-1
+P-0001030704.SLDPRT;P-0001030704;Bearing housing;1;Design State;3;A;;;;;;Custom Part / Assembly;;No;169.03;1.0045 (S355JR);Machined (Turned/Milled);Paint RAL 9003;62181-1;RBES Upgrade Germany;62181-1
+P-0001030708.SLDPRT;P-0001030708;Bearing block;1;Design State;3;B;Krzysztof Kubacki;EBMiA;ef_08;;;Purchased;;No;;;N/A;;;RBES Upgrade Germany;72481-1
+P-0001030711.SLDPRT;P-0001030711;EK 08 bearing;1;Design State;1;A;;EBMiA;EK 08 bearing;;;Purchased;;No;;;N/A;;;RBES Upgrade Germany;72481-1
+P-0001030714.SLDPRT;P-0001030714;Side cover;1;Design State;10;A;;;;;;Custom Part / Assembly;;No;6.85;PC High Viscosity;Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030716.SLDPRT;P-0001030716;Optical sensor bracket;1;Design State;7;1;mateusz.gawecki;;;;;Custom Part / Assembly;;No;0.1;1.4301 (X5CrNi18-10);Laser Cut;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030718.SLDPRT;P-0001030718;Locking plate;6;Design State;3;A;;;;;;Custom Part / Assembly;;No;44.74;1.0045 (S355JR);Machined (Turned/Milled);Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030719.SLDPRT;P-0001030719;Optical sensor bracket;1;Design State;4;1;;;;;;Custom Part / Assembly;;No;0.1;1.4301 (X5CrNi18-10);Laser Cut;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030721.SLDPRT;P-0001030721;Signal module plate;1;Design State;10;1;;;;;;Custom Part / Assembly;;No;0.5;1.0037 (S235JR);Laser Cut;Paint RAL 9003;62181-1;RBES Upgrade Germany;72481-1
+P-0001030723.SLDPRT;P-0001030723;AB sensor bracket;1;Design State;6;1;Krzysztof Kubacki;;;;;Custom Part / Assembly;;No;0.1;1.4301 (X5CrNi18-10);Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030726.SLDPRT;P-0001030726;Side cover;1;Design State;10;A;;;;;;Custom Part / Assembly;;No;2.51;PC High Viscosity;Machined (Turned/Milled);;62181-1;RBES Upgrade Germany;72481-1
+P-0001030728.SLDPRT;P-0001030728;Cover sheet;1;Design State;6;A;;;;;;Custom Part / Assembly;;No;0.2 kg;1.0037 (S235JR);Laser Cut;Paint RAL 9003;;RBES Upgrade Germany;72481-1
+P-0001030729.SLDPRT;P-0001030729;e-part XAP M34;1;Design State;;1;;;XAP M34;;;Purchased;;No;;Material <not specified>;N/A;;;RBES Upgrade Germany;72481-1
+P-0001030730.SLDPRT;P-0001030730;Vibration bumper;2;Design State;4;A;;Elesa+ganter;DVA.6-50-50-SST-M10-28-55;;;Purchased;;Yes;0.0 kg;Material <not specified>;N/A;;;Test;72481-1
+P-0001030731.SLDPRT;P-0001030731;Door locking LOB Z050;1;Design State;3;1;;LOB;Z050;;;Purchased;;No;0.1;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030732.SLDPRT;P-0001030732;Door handle pin;1;Design State;2;1;;Okucia24;IN-0099-975420;;;Purchased;;No;0.0;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030733.SLDPRT;P-0001030733;Door handle;1;Design State;3;1;Krzysztof Kubacki;Okucia24;DG60 1/2 kpl;;;Purchased;;No;0.1;Material <not specified>;N/A;;62181-1;RBES Upgrade Germany;62181-1
+P-0001030736.SLDPRT;P-0001030736;Sensor support;1;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.8;3.1325 (AlCu4MgSi);Machined (Turned/Milled);;;RBES Upgrade Germany;72205-2
+P-0001030737.SLDPRT;P-0001030737;Lock support- right;1;Design State;2;1;;;;;;Custom Part / Assembly;;No;0.8;3.1325 (AlCu4MgSi);Machined (Turned/Milled);;;RBES Upgrade Germany;72205-2
+P-0001030738.SLDPRT;P-0001030738;Door painting cover;1;Design State;7;B;Krzysztof Kubacki;;;;;Custom Part / Assembly;;No;0.1 kg;1.4301 (X5CrNi18-10);Laser Cut;;;RBES Upgrade Germany;72481-1
+P-0001030739.SLDPRT;P-0001030739;Hinge;3;Design State;3;A;;ELESA+GANTER;425822 CFM.60-SL-CH-6;;;Purchased;;No;0.0 kg;Material <not specified>;N/A;;;RBES Upgrade Germany;72481-1
+P-0001030740.SLDPRT;P-0001030740;Side cover;1;Design State;7;A;;;;;;Custom Part / Assembly;;No;4.68;PC High Viscosity;Machined (Turned/Milled);;;RBES Upgrade Germany;72481-1
+P-0001030741.SLDPRT;P-0001030741;Step cover;1;Design State;8;A;;;;;;Custom Part / Assembly;;No;1.05;PC High Viscosity;Laser Cut;;62181-1;RBES Upgrade Germany;72481-1
+P-0001030743.SLDPRT;P-0001030743;Back cover;1;Design State;8;A;;;;;;Custom Part / Assembly;;No;5.81;PC High Viscosity;Machined (Turned/Milled);;;RBES Upgrade Germany;72481-1
+P-0001030744.SLDPRT;P-0001030744;Bosch 45x45 cap;6;Design State;2;1;;Bosch-Rexroth;;;;Purchased;;No;0.0;Material <not specified>;N/A;;;RBES Upgrade Germany;7241-1
+P-0001030745.SLDPRT;P-0001030745;T-nut Bosch N10 M6;14;Design State;4;1;Krzysztof Kubacki;Bosch-Rexroth;;;;Purchased;;No;0.0;Galvanized Steel;N/A;;;RBES Upgrade Germany;62181-1
+P-0001030746.SLDPRT;P-0001030746;Bearing's shim;8;Design State;5;A;;;;;;Custom Part / Assembly;;No;0.0 kg;1.4301 (X5CrNi18-10);Laser Cut;;;RBES Upgrade Germany;72481-1
+P-0001030747.SLDPRT;P-0001030747;Network module Cube67 E/A DIO16 C 8xM12 1,6A;1;Design State;3;A;;MURR Elektronik;56640;1795,71;;Purchased;;No;;;N/A;;;RBES Upgrade Germany;72481-1
+P-0001030748.SLDPRT;P-0001030748;Strainer cable tray 804 mm;2;Design State;4;A;;baks;970106;;;Purchased;;No;;;Machined (Turned/Milled);;;RBES Upgrade Germany;72481-1
+P-0001030749.SLDPRT;P-0001030749;Strainer cable tray 1700mm;1;Design State;4;A;;baks;970106;;;Purchased;;No;;;Machined (Turned/Milled);;;RBES Upgrade Germany;72481-1
+P-0001030750.SLDPRT;P-0001030750;Top cable tray mounting;11;Design State;3;A;;BAKS;971100;;;Purchased;;No;0.0 kg;Material <not specified>;N/A;;;RBES Upgrade Germany;72481-1
+P-0001030751.SLDPRT;P-0001030751;Screw ISO 7380-2 M4x12;82;Design State;4;A;;;ISO 7380-2 M4x12;;;Purchased;;No;0.0 kg;Material <not specified>;N/A;;;RBES Upgrade Germany;72481-1
+P-0001030752.SLDPRT;P-0001030752;Side cable trays mounting bracket;6;Design State;3;A;;BAKS;903200;;;Purchased;;No;0.0 kg;Material <not specified>;N/A;;;RBES Upgrade Germany;72481-1
+P-0001030753.SLDPRT;P-0001030753;Strainer cable tray 904 mm;1;Design State;3;A;;baks;970106;;;Purchased;;No;;;Machined (Turned/Milled);;;RBES Upgrade Germany;72481-1
+P-0001030754.SLDPRT;P-0001030754;Strainer cable tray 304mm;1;Design State;2;A;;baks;970106;;;Purchased;;No;;;N/A;;;RBES Upgrade Germany;72481-1
+P-0001030755.SLDPRT;P-0001030755;Shims locking;4;Design State;5;A;;;;;;Custom Part / Assembly;;No;0.0 kg;1.0037 (S235JR);Laser Cut;Paint RAL 9003;;RBES Upgrade Germany;72481-1
+P-0001030756.SLDPRT;P-0001030756;Sensor bracket door side;1;Design State;4;A;;;;;;Custom Part / Assembly;;No;0.1 kg;1.0037 (S235JR);Laser Cut;Paint RAL 9003;;RBES Upgrade Germany;72481-1
+P-0001030757.SLDPRT;P-0001030757;Vibration damping element DVA.6-20-15-M6-18-40;2;Design State;2;A;;Elesa+Ganter;416997;;;Purchased;;No;;;;;;RBES Upgrade Germany;72481-1
+P-0001030758.SLDPRT;P-0001030758;Optical sensor;2;Design State;2;A;;;190856;;;Purchased;;No;0.03;Material <not specified>;N/A;;;RBES Upgrade Germany;72481-1
+Screw DIN 968-ST4.2x9.5-C-H-N.sldprt;Screw DIN 968-ST4.2x9.5-C-H-N;Self tapping screw;16;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Spring washer DIN 128 - A10.sldprt;Spring washer DIN 128 - A10;Spring washer;4;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Spring washer DIN 128 - A12.sldprt;Spring washer DIN 128 - A12;;8;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Spring washer DIN 128 - A3.sldprt;Spring washer DIN 128 - A3;;2;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Spring washer DIN 128 - A4.sldprt;Spring washer DIN 128 - A4;Spring washer DIN 128 - A4;16;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Spring washer DIN 128 - A5.sldprt;Spring washer DIN 128 - A5;;8;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Spring washer DIN 128 - A6.sldprt;Spring washer DIN 128 - A6;Spring washer DIN 128 - A6;20;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Spring washer DIN 128 - A8.sldprt;Spring washer DIN 128 - A8;Spring washer DIN 128 - A8;16;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Tapping screw DIN 7049-ST4.2x13-C-H-N.sldprt;Tapping screw DIN 7049-ST4.2x13-C-H-N;;13;Toolbox & Libraries;;;;;;;;Custom Part / Assembly;;No;;;;;;;System
+Washer DIN 125 - A 3.2.sldprt;;;22;Toolbox & Libraries;;;;;;;;;;;;;;;System;;
+Washer DIN 125 - A 4.3.sldprt;;;18;Toolbox & Libraries;;;;;;;;;;;;;;;System;;
+Washer DIN 125 - A 6.4.sldprt;;;3;Toolbox & Libraries;;;;;;;;;;;;;;;System;;
+Washer DIN 125 - A 8.4.sldprt;;;4;Toolbox & Libraries;;;;;;;;;;;;;;;System;;
+Washer DIN 9021 - 4.3.sldprt;;;2;Toolbox & Libraries;;;;;;;;;;;;;;;System;;
+Washer DIN 9021 - 5.3.sldprt;;;2;Toolbox & Libraries;;;;;;;;;;;;;;;System;;
+Washer ISO 7089 - 10.sldprt;Washer ISO 7089 - 10;;2;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Washer ISO 7089 - 12.sldprt;Washer ISO 7089 - 12;;24;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Washer ISO 7089 - 3.sldprt;;;2;Toolbox & Libraries;;;;;;;;;;;;;;;System;;
+Washer ISO 7089 - 4.sldprt;Washer ISO 7089 - 4;;4;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Washer ISO 7089 - 5.sldprt;Washer ISO 7089 - 5;;8;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
+Washer ISO 7089 - 6.sldprt;P-0000001174;;47;Toolbox & Libraries;;;;;;;;Custom Part / Assembly;;No;;;;;;;System
+Washer ISO 7089 - 8.sldprt;Washer ISO 7089 - 8;;34;Toolbox & Libraries;;;;;;;;;;;;;;;System;;System
