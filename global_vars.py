@@ -32,7 +32,7 @@ folderWithPackage = "data"
 typesOfFiles = ("PDF", "DWG", "STEP", "DXF")
 
 # --- PDM properties ---
-global PDMfileName, PDMnumber, PDMdescription, PDMqty# , PDM level parts only BOM
+global PDMfileName, PDMnumber, PDMdescription, PDMqty  # , PDM level parts only BOM
 global PDMstate, PDMversion, PDMrevision, PDMrevisionBy, PDMvendor
 global PDMitemID, PDMprice, PDMdeliveryTime, PDMtypeSld, PDMplateThickness
 global PDMsparePart, PDMweight, PDMmaterial, PDMmanufacturingMethod

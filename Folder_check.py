@@ -22,7 +22,6 @@ def metalSheetBoolean(string: str)-> bool:
         True -> metal sheet
         False -> not metal sheet
         None -> value in table is not as "Yes" or "No"
-
     """
     if string == "Yes":
         return True
